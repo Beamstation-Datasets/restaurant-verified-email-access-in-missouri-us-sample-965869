@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Missouri, US
 
-> Free BeamStation sample export with 189 rows and masked direct-contact fields.
+> Free BeamStation sample export with 183 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `965869` |
 | Location | Missouri |
 | Category | Restaurants |
-| Full dataset size | 1,895 records |
-| Free sample size | 189 records (9.97%) |
-| Last export | 2026-04-15T03:21:20.324240+00:00 |
+| Full dataset size | 1,831 records |
+| Free sample size | 183 records (9.99%) |
+| Last export | 2026-04-22T08:43:24.690925+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-missouri-us-sample-965869/releases/download/sample-latest/beamstation_965869_restaurants-us-mo_SAMPLE_DIST.csv) |
 
 ## What is in this sample
