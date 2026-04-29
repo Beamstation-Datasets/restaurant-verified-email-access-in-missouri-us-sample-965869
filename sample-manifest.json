@@ -1,12 +1,12 @@
 {
-  "export_job_id": "eddce8ea-bc41-45b9-8832-a4b69696eda0",
+  "export_job_id": "3d70e9c4-fff4-433a-83e3-ead1dbb8dff5",
   "id_short": 965869,
-  "published_at": "2026-04-23T07:19:08Z",
+  "published_at": "2026-04-29T19:52:29Z",
   "repo_name": "restaurant-verified-email-access-in-missouri-us-sample-965869",
   "sample_asset_name": "beamstation_965869_restaurants-us-mo_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/965869/beamstation_965869_restaurants-us-mo_SAMPLE_DIST.csv",
-  "sample_records": 183,
-  "sample_sha256": "c657b6490c16de40eb953ef3d9ba123c0b239936c1587dc6cca19325d860af49",
-  "sample_size_bytes": 756992,
-  "total_records": 1831
+  "sample_records": 228,
+  "sample_sha256": "be19a97fd5109bb0abb79334e09f5980e621fb42017e7a39dc72de9f857a0d32",
+  "sample_size_bytes": 891037,
+  "total_records": 2280
 }
